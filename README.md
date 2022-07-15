@@ -8,6 +8,6 @@
  
  ## HOW TO GET STARTED
  
- git clone 
+ git clone https://github.com/amschel99/amschel-tasks.git
 
   
