@@ -10,4 +10,8 @@
  
  git clone https://github.com/amschel99/amschel-tasks.git
 
+npm install
+
+npm run start
+
   
